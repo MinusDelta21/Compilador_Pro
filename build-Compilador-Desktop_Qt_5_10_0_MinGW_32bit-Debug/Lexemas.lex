@@ -1,10 +1,7 @@
-0 var	VarDef
-1 a	ID
-2 ,	Delim
-3 b	ID
-4 [	Agrup
-5 b	ID
-6 ]	Agrup
-7 :	Delim
-8 float	VarType
-9 ;	Delim
+0 print	ExtraDef
+1 (	Agrup
+2 a	ID
+3 <	OpRel
+4 b	ID
+5 )	Agrup
+6 ;	Delim
