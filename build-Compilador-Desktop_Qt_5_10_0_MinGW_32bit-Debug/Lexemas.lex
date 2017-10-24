@@ -1,0 +1,10 @@
+0 var	VarDef
+1 a	ID
+2 ,	Delim
+3 b	ID
+4 [	Agrup
+5 b	ID
+6 ]	Agrup
+7 :	Delim
+8 float	VarType
+9 ;	Delim

@@ -1,0 +1,9 @@
+0 var		VarDef
+1 a		ID
+2 =		Asig
+3 9.8		ConstFloat
+4 ;		Delim
+5 var		VarDef
+6 =		Asig
+7 9.8		ConstFloat
+8 ;		Delim
